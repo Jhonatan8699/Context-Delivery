@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="914c45b2-815c-4ae9-8d87-e8f56d6728cd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-repartidor/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-repartidor/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-repartidor/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-repartidor/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-repartidor/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-repartidor/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-repartidor/src/main/java/org/jgarcia/springcloud/msvc/repartidor/MsvcRepartidorApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-repartidor/src/main/java/org/jgarcia/springcloud/msvc/repartidor/controllers/RepartidorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-repartidor/src/main/java/org/jgarcia/springcloud/msvc/repartidor/models/entity/Repartidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-repartidor/src/main/java/org/jgarcia/springcloud/msvc/repartidor/repositories/RepartidorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-repartidor/src/main/java/org/jgarcia/springcloud/msvc/repartidor/services/RepartidorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-repartidor/src/main/java/org/jgarcia/springcloud/msvc/repartidor/services/RepartidorServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-repartidor/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-repartidor/src/test/java/org/jgarcia/springcloud/msvc/repartidor/MsvcRepartidorApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jgarcia/springcloud/msvc/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2fWyb0zfizMspFuMTNCV3u5F1bj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.MsvcRepartidorApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/PruebaDeClon",
+    "onboarding.tips.debug.path": "D:/UNIVERSIDAD NACIONAL DE CAJAMARCA/VACACIONAL 2024-0/ProyectoSw3/Context-Delivery/src/main/java/org/jgarcia/springcloud/msvc/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MsvcRepartidorApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.jgarcia.springcloud.msvc.repartidor.MsvcRepartidorApplication" />
+      <module name="msvc-repartidor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jgarcia.springcloud.msvc.repartidor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MsvcRepartidorApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="914c45b2-815c-4ae9-8d87-e8f56d6728cd" name="Changes" comment="" />
+      <created>1713931197414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713931197414</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/jgarcia/springcloud/msvc/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
